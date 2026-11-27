@@ -7,7 +7,7 @@ Second-year **BSc Computer Science** student at the **University of Surrey**, fo
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sanjeev-giritharan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeev-giritharan/)
 
 ## 💻 Tech Stack
 
@@ -22,3 +22,4 @@ Second-year **BSc Computer Science** student at the **University of Surrey**, fo
 ![Top languages used](https://github-readme-stats.shion.dev/api/top-langs/?username=Vertical-JEEV&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
