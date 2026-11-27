@@ -7,7 +7,7 @@ Second-year **BSc Computer Science** student at the **University of Surrey**, fo
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sanjeev-giritharan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sanjeev-giritharan)
 
 ## 💻 Tech Stack
 
